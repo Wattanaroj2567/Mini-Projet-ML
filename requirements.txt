@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+python-multipart
+opencv-python-headless
+ultralytics
+lapx
+
+# Google Drive
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
